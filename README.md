@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/cartoon-coder.svg" width="520" alt="Cartoon coder illustration"/>
+<img src="cartoon-coder.svg" width="520" alt="Cartoon coder illustration"/>
 
 # <span style="color:#F04B3A">Aryaman Tomar</span>
 
