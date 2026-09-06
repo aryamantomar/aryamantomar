@@ -2,26 +2,29 @@
   ================================================================
   README.md — Aryaman Tomar's GitHub Profile
   Theme: Crayon-notebook / hand-drawn cartoon aesthetic
-  Palette: Paper #FFF4D6 · Red #E94B3C · Sky #55B8E8 · Yellow #FFD447 · Green #67B875 · Ink #292929
+  Palette (soft/light crayon tones):
+    Paper #FFF6E9 · Soft Coral #F7B7A3 · Soft Sky #AEE1F9
+    Soft Yellow #FFF3B0 · Soft Mint #B8E8C1 · Ink #4A3F35
 
   HOW TO CUSTOMIZE:
   - Every place you should swap in your own artwork, project info, or
     links is marked with an HTML comment like this one.
-  - GitHub Markdown cannot use custom fonts on plain text (only inside
-    generated banner/typing images below), so headings use bold + emoji
-    instead of "handwritten" text.
+  - GitHub Markdown cannot use custom fonts on plain text — only inside
+    generated images (banners, typing line, LeetCode card) can a font
+    like "Patrick Hand" actually render. Headings below use bold + emoji
+    instead, since GitHub strips font styling from regular text.
   ================================================================
 -->
 
 <div align="center">
 
 <!-- 🖍️ HERO BANNER — replace this capsule-render banner with your own
-     hand-drawn "Shinchan at a desk coding, Shiro nearby" illustration
-     once you have one. Until then this gradient banner stands in. -->
-<img alt="N/A" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF4D6,25:55B8E8,55:FFD447,100:E94B3C&height=220&section=header&text=BUILD%20%C2%B7%20LEARN%20%C2%B7%20IMPROVE%20%C2%B7%20REPEAT&fontSize=34&fontColor=292929&animation=fadeIn&fontAlignY=38&desc=Same%20energy.%20More%20GitHub.%20%3A)&descAlignY=58&descSize=18&fontFamily=Patrick+Hand" width="100%"/>
+     hand-drawn "kid at a desk coding, puppy nearby" illustration
+     once you have one. Solid soft-sky background for now. -->
+<img alt="N/A" src="https://capsule-render.vercel.app/api?type=waving&color=AEE1F9&height=220&section=header&text=BUILD%20%C2%B7%20LEARN%20%C2%B7%20IMPROVE%20%C2%B7%20REPEAT&fontSize=34&fontColor=4A3F35&animation=fadeIn&fontAlignY=38&desc=Same%20energy.%20More%20GitHub.%20%3A)&descAlignY=58&descSize=18&fontFamily=Patrick+Hand" width="100%"/>
 
 <!-- Typing line -->
-<img alt="N/A" src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=22&pause=1000&color=E94B3C&background=FFF4D600&center=true&vCenter=true&width=650&lines=Hey!+I'm+Aryaman+%F0%9F%91%8B;B.Tech+CSE+Student+%7C+Developer+%7C+Builder;Coding+one+doodle+at+a+time" />
+<img alt="N/A" src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=22&pause=1000&color=F7B7A3&background=FFF6E900&center=true&vCenter=true&width=650&lines=Hey!+I'm+Aryaman+%F0%9F%91%8B;B.Tech+CSE+Student+%7C+Developer+%7C+Builder;Coding+one+doodle+at+a+time" />
 
 </div>
 
@@ -31,7 +34,7 @@
 <p align="center">
 <svg width="100%" height="18" viewBox="0 0 600 18" xmlns="http://www.w3.org/2000/svg">
   <path d="M0 9 Q 25 0, 50 9 T 100 9 T 150 9 T 200 9 T 250 9 T 300 9 T 350 9 T 400 9 T 450 9 T 500 9 T 550 9 T 600 9"
-        stroke="#E94B3C" stroke-width="3" fill="none" stroke-linecap="round"/>
+        stroke="#F7B7A3" stroke-width="3" fill="none" stroke-linecap="round"/>
 </svg>
 </p>
 
@@ -53,7 +56,7 @@ I build things, break things, then fix the things I broke — usually with a cup
 </tr>
 </table>
 
-<sub>🖍️ *Shinchan-brain moment: wrote 40 lines of code, 38 of them were `console.log`.*</sub>
+<sub>🖍️ *Brain moment: wrote 40 lines of code, 38 of them were `console.log`.*</sub>
 
 ---
 
@@ -99,7 +102,7 @@ I build things, break things, then fix the things I broke — usually with a cup
 <tr>
 <td width="50%" valign="top">
 
-**🟥 [ PROJECT NAME HERE ]**
+**🟧 [ PROJECT NAME HERE ]**
 
 _One-line description of what it does goes here._
 
@@ -135,7 +138,7 @@ _Small commits. Big progress._
 <!-- 🖍️ Contribution graph — third-party service, occasionally slow/rate-limited.
      If it stops loading reliably, it's safe to delete this whole block;
      your real contribution calendar already lives on your profile page. -->
-<img alt="N/A" src="https://github-readme-activity-graph.vercel.app/graph?username=aryamantomar&bg_color=FFF4D6&color=E94B3C&line=E94B3C&point=292929&area=true&area_color=FFD447&hide_border=true" width="90%"/>
+<img alt="N/A" src="https://github-readme-activity-graph.vercel.app/graph?username=aryamantomar&bg_color=FFF6E9&color=F7B7A3&line=F7B7A3&point=4A3F35&area=true&area_color=FFF3B0&hide_border=true" width="90%"/>
 
 </div>
 
@@ -169,7 +172,7 @@ _Small commits. Big progress._
 
 <br/>
 
-<img alt="N/A" src="https://streak-stats.demolab.com/?user=aryamantomar&hide_border=true&background=FFF4D6&stroke=E94B3C&ring=55B8E8&fire=FFD447&currStreakLabel=E94B3C&sideLabels=292929&currStreakNum=292929&sideNums=292929&dates=67B875" width="70%"/>
+<img alt="N/A" src="https://streak-stats.demolab.com/?user=aryamantomar&hide_border=true&background=FFF6E9&stroke=F7B7A3&ring=F7B7A3&fire=F7B7A3&currStreakLabel=F7B7A3&sideLabels=4A3F35&currStreakNum=4A3F35&sideNums=4A3F35&dates=B8E8C1" width="70%"/>
 
 </div>
 
@@ -189,7 +192,7 @@ _Small commits. Big progress._
 
 <!-- 🖍️ Handwritten-style quote banner -->
 <div align="center">
-<img alt="N/A" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD447,50:55B8E8,100:E94B3C&height=100&text=Better%20code.%20Brighter%20tomorrow.&fontSize=20&fontColor=292929&fontAlignY=45&fontFamily=Patrick+Hand&width=900" width="90%"/>
+<img alt="N/A" src="https://capsule-render.vercel.app/api?type=rect&color=FFF3B0&height=100&text=Better%20code.%20Brighter%20tomorrow.&fontSize=20&fontColor=4A3F35&fontAlignY=45&fontFamily=Patrick+Hand&width=900" width="90%"/>
 <br/>
 <sub>🖍️ Consistent progress beats occasional perfection.</sub>
 </div>
@@ -200,12 +203,12 @@ _Small commits. Big progress._
 
 <div align="center">
 
-[![N/A](https://img.shields.io/badge/LinkedIn-55B8E8?style=for-the-badge&logo=linkedin&logoColor=292929)](https://linkedin.com/in/aryamantomar)
-[![N/A](https://img.shields.io/badge/Email-FFD447?style=for-the-badge&logo=gmail&logoColor=292929)](mailto:developeraryamantomar@gmail.com)
-[![N/A](https://img.shields.io/badge/LeetCode-E94B3C?style=for-the-badge&logo=leetcode&logoColor=ffffff)](https://leetcode.com/u/ToZYjfYfK3/)
+[![N/A](https://img.shields.io/badge/LinkedIn-AEE1F9?style=for-the-badge&logo=linkedin&logoColor=4A3F35)](https://linkedin.com/in/aryamantomar)
+[![N/A](https://img.shields.io/badge/Email-FFF3B0?style=for-the-badge&logo=gmail&logoColor=4A3F35)](mailto:developeraryamantomar@gmail.com)
+[![N/A](https://img.shields.io/badge/LeetCode-F7B7A3?style=for-the-badge&logo=leetcode&logoColor=4A3F35)](https://leetcode.com/u/ToZYjfYfK3/)
 
-![N/A](https://komarev.com/ghpvc/?username=aryamantomar&color=e94b3c&style=flat-square&label=Profile+Views)
-![N/A](https://img.shields.io/github/followers/aryamantomar?color=e94b3c&style=flat-square&label=Followers&logo=github&logoColor=ffffff)
+![N/A](https://komarev.com/ghpvc/?username=aryamantomar&color=f7b7a3&style=flat-square&label=Profile+Views)
+![N/A](https://img.shields.io/github/followers/aryamantomar?color=f7b7a3&style=flat-square&label=Followers&logo=github&logoColor=ffffff)
 
 </div>
 
@@ -213,17 +216,17 @@ _Small commits. Big progress._
 <p align="center">
 <svg width="120" height="30" viewBox="0 0 120 30" xmlns="http://www.w3.org/2000/svg">
   <polygon points="15,2 18,11 27,11 20,17 22,26 15,20 8,26 10,17 3,11 12,11"
-           fill="#FFD447" stroke="#292929" stroke-width="1"/>
+           fill="#FFF3B0" stroke="#4A3F35" stroke-width="1"/>
   <polygon points="60,6 62,13 69,13 63,17 65,24 60,20 55,24 57,17 51,13 58,13"
-           fill="#55B8E8" stroke="#292929" stroke-width="1"/>
+           fill="#AEE1F9" stroke="#4A3F35" stroke-width="1"/>
   <polygon points="105,2 108,11 117,11 110,17 112,26 105,20 98,26 100,17 93,11 102,11"
-           fill="#E94B3C" stroke="#292929" stroke-width="1"/>
+           fill="#F7B7A3" stroke="#4A3F35" stroke-width="1"/>
 </svg>
 </p>
 
 <div align="center">
 
-<!-- 🖍️ FOOTER — replace with a "Shinchan waving goodbye" style illustration if desired -->
-<img alt="N/A" src="https://capsule-render.vercel.app/api?type=waving&color=0:E94B3C,45:FFD447,100:FFF4D6&height=130&section=footer&text=Now%20back%20to%20coding...%20%F0%9F%92%BB&fontSize=20&fontColor=292929&fontAlignY=80&fontFamily=Patrick+Hand" width="100%"/>
+<!-- 🖍️ FOOTER — replace with a hand-drawn "waving goodbye" illustration if desired -->
+<img alt="N/A" src="https://capsule-render.vercel.app/api?type=waving&color=B8E8C1&height=130&section=footer&text=Now%20back%20to%20coding...%20%F0%9F%92%BB&fontSize=20&fontColor=4A3F35&fontAlignY=80&fontFamily=Patrick+Hand" width="100%"/>
 
 </div>
