@@ -1,48 +1,62 @@
 <div align="center">
 
-<img alt="N/A" src="https://capsule-render.vercel.app/api?type=waving&color=1E1E2F&height=210&section=header&text=Aryaman%20Tomar&fontSize=44&fontColor=F5A524&animation=fadeIn&fontAlignY=36&desc=B.Tech%20Computer%20Science%20Student&descAlignY=56&descSize=18&descColor=F8F5F0&fontFamily=Poppins" width="100%"/>
+<img src="./assets/cartoon-coder.svg" width="520" alt="Cartoon coder illustration"/>
 
-<img alt="N/A" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F5A524&background=00000000&center=true&vCenter=true&width=640&lines=Building+with+Java%2C+Python+%26+JavaScript;Turning+coffee+into+commits;Always+debugging+something;Currently+leveling+up+on+LeetCode" />
+# <span style="color:#F04B3A">Aryaman Tomar</span>
+
+### 🧑‍💻 B.Tech Computer Science Student
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=900&color=F04B3A&background=FFF8E7&center=true&vCenter=true&width=700&lines=Building+with+Java%2C+Python+%26+JavaScript;Turning+coffee+into+commits;Always+debugging+something;Currently+leveling+up+on+LeetCode" alt="Typing animation"/>
 
 <br/>
 
-![N/A](https://komarev.com/ghpvc/?username=aryamantomar&color=F5A524&style=flat-square&label=Profile+Views)
-![N/A](https://img.shields.io/github/followers/aryamantomar?color=F5A524&style=flat-square&label=Followers&logo=github&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=aryamantomar&color=F04B3A&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/aryamantomar?color=5BC0EB&style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white" alt="GitHub followers"/>
 
 </div>
 
 ---
 
-### About
+## 🧃 About Me
 
-I'm a B.Tech Computer Science student who enjoys building things end-to-end — from backend logic to the interface people actually touch. Most days involve some mix of Java, Python, JavaScript, and whatever new tool I've decided to break my workflow with this week. Currently spending a lot of time on LeetCode and sharpening the fundamentals.
+> **Hi, I'm Aryaman!**  
+> A B.Tech Computer Science student who enjoys turning ideas into working software.
+
+I like building things end-to-end — from backend logic to the interface people actually touch. Most days involve some mix of **Java, Python, JavaScript**, and whatever new tool I've decided to experiment with.
+
+🎯 Currently:
+- 🧠 Sharpening programming fundamentals
+- 💻 Building projects with Java, Python & JavaScript
+- 🧩 Practicing problems on LeetCode
+- 🚀 Learning by building and breaking things
 
 ---
 
-### Tech Stack
+## 🛠️ My Tech Playground
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-**Languages**
+### 💻 Languages
 
-![N/A](https://skillicons.dev/icons?i=java,python,js&theme=dark)
+<img src="https://skillicons.dev/icons?i=java,python,js&theme=light" alt="Java Python JavaScript"/>
 
-**Frontend**
+### 🎨 Frontend
 
-![N/A](https://skillicons.dev/icons?i=html,css,js&theme=dark)
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=light" alt="HTML CSS JavaScript"/>
 
 </td>
-<td valign="top" width="50%">
 
-**Backend & Database**
+<td width="50%" valign="top">
 
-![N/A](https://skillicons.dev/icons?i=java,python,mysql&theme=dark)
+### ⚙️ Backend & Database
 
-**Dev Tools**
+<img src="https://skillicons.dev/icons?i=java,python,mysql&theme=light" alt="Java Python MySQL"/>
 
-![N/A](https://skillicons.dev/icons?i=git,github,linux,idea,webstorm,datagrip&theme=dark)
+### 🔧 Dev Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,idea,webstorm,datagrip&theme=light" alt="Git GitHub Linux IntelliJ WebStorm DataGrip"/>
 
 </td>
 </tr>
@@ -50,81 +64,94 @@ I'm a B.Tech Computer Science student who enjoys building things end-to-end — 
 
 ---
 
-### Featured Projects
-
-<!-- No repos were confirmed, so these are clearly marked placeholder
-     templates. Duplicate a <td> block per project, fill in the real
-     name/description/tech/links, then delete any panels you don't need. -->
+## 🎮 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[ PROJECT NAME HERE ]**
+### 🕹️ Project One
 
-_One-line description of what it does goes here._
+**Your project name here**
 
-`Tech: e.g. Java, MySQL`
+> One-line description of what it does.
 
-<!-- Replace # with real links -->
-[Code](#) &nbsp;•&nbsp; [Live Demo](#)
+`Java` `MySQL`
+
+[💻 Code](#) · [🌐 Live Demo](#)
 
 </td>
+
 <td width="50%" valign="top">
 
-**[ PROJECT NAME HERE ]**
+### 🚀 Project Two
 
-_One-line description of what it does goes here._
+**Your project name here**
 
-`Tech: e.g. Python, Flask`
+> One-line description of what it does.
 
-<!-- Replace # with real links -->
-[Code](#) &nbsp;•&nbsp; [Live Demo](#)
+`Python` `JavaScript`
+
+[💻 Code](#) · [🌐 Live Demo](#)
 
 </td>
 </tr>
 </table>
 
+> 💡 Replace these two cards with your actual projects when you have the repo names and links ready.
+
 ---
 
-### GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-**Most Used Languages**
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=light&perline=6" alt="Tech icons"/>
 
-![N/A](https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=dark&perline=6)
+<br/><br/>
 
-<br/>
-
-<img alt="N/A" src="https://streak-stats.demolab.com/?user=aryamantomar&hide_border=true&background=1E1E2F&stroke=F5A524&ring=F5A524&fire=F5A524&currStreakLabel=F5A524&sideLabels=F8F5F0&currStreakNum=F8F5F0&sideNums=F8F5F0&dates=8A8A9E" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=aryamantomar&hide_border=true&background=FFF8E7&stroke=F04B3A&ring=F04B3A&fire=FFD447&currStreakLabel=F04B3A&sideLabels=263238&currStreakNum=263238&sideNums=263238&dates=607D8B" width="70%" alt="GitHub streak"/>
 
 </div>
 
 ---
 
-### LeetCode
+## 🧩 LeetCode
 
 <div align="center">
 
 <a href="https://leetcode.com/u/ToZYjfYfK3/">
-  <img alt="N/A" src="https://leetcard.jacoblin.cool/ToZYjfYfK3?theme=dark&ext=heatmap" width="90%"/>
+<img src="https://leetcard.jacoblin.cool/ToZYjfYfK3?theme=light&ext=heatmap" width="90%" alt="LeetCode stats"/>
 </a>
 
 </div>
 
 ---
 
-### Connect
+## 🌈 Let's Connect
 
 <div align="center">
 
-[![N/A](https://img.shields.io/badge/LinkedIn-1E1E2F?style=for-the-badge&logo=linkedin&logoColor=F5A524)](https://linkedin.com/in/aryamantomar)
-[![N/A](https://img.shields.io/badge/Email-1E1E2F?style=for-the-badge&logo=gmail&logoColor=F5A524)](mailto:developeraryamantomar@gmail.com)
-[![N/A](https://img.shields.io/badge/LeetCode-1E1E2F?style=for-the-badge&logo=leetcode&logoColor=F5A524)](https://leetcode.com/u/ToZYjfYfK3/)
+<a href="https://linkedin.com/in/aryamantomar">
+<img src="https://img.shields.io/badge/LinkedIn-263238?style=for-the-badge&logo=linkedin&logoColor=FFD447" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:developeraryamantomar@gmail.com">
+<img src="https://img.shields.io/badge/Email-263238?style=for-the-badge&logo=gmail&logoColor=F04B3A" alt="Email"/>
+</a>
+
+<a href="https://leetcode.com/u/ToZYjfYfK3/">
+<img src="https://img.shields.io/badge/LeetCode-263238?style=for-the-badge&logo=leetcode&logoColor=FFD447" alt="LeetCode"/>
+</a>
 
 </div>
 
----
+<br/>
 
-<img alt="N/A" src="https://capsule-render.vercel.app/api?type=waving&color=1E1E2F&height=120&section=footer&fontFamily=Poppins" width="100%"/>
+<div align="center">
+
+### <span style="color:#F04B3A">「 Keep coding. Keep experimenting. 」</span>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F04B3A&height=100&section=footer&reversal=true" width="100%" alt="Footer"/>
+
+</div>
