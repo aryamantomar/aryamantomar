@@ -85,8 +85,11 @@ const aryamanTomar = {
 
 <div align="center">
 
-<img alt="N/A" src="https://github-readme-stats.vercel.app/api?username=aryamantomar&show_icons=true&hide_border=true&bg_color=0F172A&title_color=10b981&icon_color=10b981&text_color=e2e8f0" width="49%"/>
-<img alt="N/A" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryamantomar&layout=compact&hide_border=true&bg_color=0F172A&title_color=10b981&text_color=e2e8f0" width="49%"/>
+**Most Used Languages**
+
+![N/A](https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=dark&perline=6)
+
+<br/>
 
 <img alt="N/A" src="https://streak-stats.demolab.com/?user=aryamantomar&hide_border=true&background=0F172A&stroke=10b981&ring=10b981&fire=10b981&currStreakLabel=10b981&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b" width="70%"/>
 
