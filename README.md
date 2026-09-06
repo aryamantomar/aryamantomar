@@ -175,6 +175,18 @@ _Small commits. Big progress._
 
 ---
 
+## 🧩 LeetCode
+
+<div align="center">
+
+<a href="https://leetcode.com/u/ToZYjfYfK3/">
+  <img alt="N/A" src="https://leetcard.jacoblin.cool/ToZYjfYfK3?theme=light&font=Patrick%20Hand&ext=heatmap" width="90%"/>
+</a>
+
+</div>
+
+---
+
 <!-- 🖍️ Handwritten-style quote banner -->
 <div align="center">
 <img alt="N/A" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD447,50:55B8E8,100:E94B3C&height=100&text=Better%20code.%20Brighter%20tomorrow.&fontSize=20&fontColor=292929&fontAlignY=45&fontFamily=Patrick+Hand&width=900" width="90%"/>
@@ -190,6 +202,7 @@ _Small commits. Big progress._
 
 [![N/A](https://img.shields.io/badge/LinkedIn-55B8E8?style=for-the-badge&logo=linkedin&logoColor=292929)](https://linkedin.com/in/aryamantomar)
 [![N/A](https://img.shields.io/badge/Email-FFD447?style=for-the-badge&logo=gmail&logoColor=292929)](mailto:developeraryamantomar@gmail.com)
+[![N/A](https://img.shields.io/badge/LeetCode-E94B3C?style=for-the-badge&logo=leetcode&logoColor=ffffff)](https://leetcode.com/u/ToZYjfYfK3/)
 
 ![N/A](https://komarev.com/ghpvc/?username=aryamantomar&color=e94b3c&style=flat-square&label=Profile+Views)
 ![N/A](https://img.shields.io/github/followers/aryamantomar?color=e94b3c&style=flat-square&label=Followers&logo=github&logoColor=ffffff)
