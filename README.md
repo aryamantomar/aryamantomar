@@ -92,22 +92,6 @@ const aryamanTomar = {
 
 </div>
 
-### `>` trophies
-
-<div align="center">
-
-<img alt="N/A" src="https://github-profile-trophy.vercel.app/?username=aryamantomar&column=4&margin-w=10&margin-h=10&theme=algolia&no-bg=true" width="90%"/>
-
-</div>
-
-### `>` contribution_activity
-
-<div align="center">
-
-<img alt="N/A" src="https://github-readme-activity-graph.vercel.app/graph?username=aryamantomar&bg_color=0F172A&color=10b981&line=10b981&point=e2e8f0&area=true&hide_border=true" width="95%"/>
-
-</div>
-
 ---
 
 ### `>` connect
