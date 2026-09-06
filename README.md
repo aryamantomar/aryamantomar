@@ -61,9 +61,8 @@ const aryamanTomar = {
 
 **AI Tools**
 
-![Skills](https://skillicons.dev/icons?i=)
-
-<sub>Claude · ChatGPT</sub>
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
