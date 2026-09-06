@@ -81,7 +81,7 @@ const aryamanTomar = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aryamantomar&theme=nord&no-frame=true&no-bg=true&margin-w=10&margin-h=10" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aryamantomar&column=4&margin-w=10&margin-h=10&no-bg=true" width="90%"/>
 
 </div>
 
@@ -89,7 +89,7 @@ const aryamanTomar = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryamantomar&theme=react-dark&color=aa744e&line=aa744e&point=ffffff&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryamantomar&bg_color=0d1117&color=aa744e&line=aa744e&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
