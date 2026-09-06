@@ -6,21 +6,24 @@
     Paper #FFF6E9 · Soft Coral #F7B7A3 · Soft Sky #AEE1F9
     Soft Yellow #FFF3B0 · Soft Mint #B8E8C1 · Ink #4A3F35
 
-  HOW TO CUSTOMIZE:
-  - Every place you should swap in your own artwork, project info, or
-    links is marked with an HTML comment like this one.
-  - GitHub Markdown cannot use custom fonts on plain text — only inside
-    generated images (banners, typing line, LeetCode card) can a font
-    like "Patrick Hand" actually render. Headings below use bold + emoji
-    instead, since GitHub strips font styling from regular text.
+  FONT NOTE:
+  - GitHub strips custom fonts from plain Markdown/HTML text, so almost
+    every heading and body line below has been converted into a small
+    generated image (readme-typing-svg) rendered in "Patrick Hand" —
+    the same handwritten font used on the LeetCode card.
+  - Emoji are kept as normal text next to each image since emoji render
+    as pictographs regardless of font — no need to bake them into images.
+  - EXCEPTION: the Featured Projects placeholder text is left as real,
+    editable text on purpose, so you can actually replace
+    "[ PROJECT NAME HERE ]" etc. with your real project info later.
+  - To edit any converted line, change the text after "lines=" in that
+    image's URL (URL-encode spaces as %20, & as %26, + as %2B).
   ================================================================
 -->
 
 <div align="center">
 
-<!-- 🖍️ HERO BANNER — replace this capsule-render banner with your own
-     hand-drawn "kid at a desk coding, puppy nearby" illustration
-     once you have one. Solid soft-sky background for now. -->
+<!-- 🖍️ HERO BANNER — replace with your own hand-drawn illustration later -->
 <img alt="N/A" src="https://capsule-render.vercel.app/api?type=waving&color=AEE1F9&height=220&section=header&text=BUILD%20%C2%B7%20LEARN%20%C2%B7%20IMPROVE%20%C2%B7%20REPEAT&fontSize=34&fontColor=4A3F35&animation=fadeIn&fontAlignY=38&desc=Same%20energy.%20More%20GitHub.%20%3A)&descAlignY=58&descSize=18&fontFamily=Patrick+Hand" width="100%"/>
 
 <!-- Typing line -->
@@ -30,7 +33,7 @@
 
 <br/>
 
-<!-- 🌈 hand-drawn style divider (generic doodle, safe to keep or restyle) -->
+<!-- 🌈 hand-drawn style divider -->
 <p align="center">
 <svg width="100%" height="18" viewBox="0 0 600 18" xmlns="http://www.w3.org/2000/svg">
   <path d="M0 9 Q 25 0, 50 9 T 100 9 T 150 9 T 200 9 T 250 9 T 300 9 T 350 9 T 400 9 T 450 9 T 500 9 T 550 9 T 600 9"
@@ -38,50 +41,55 @@
 </svg>
 </p>
 
-## ✏️ About Me
+### ✏️ <img alt="About Me" src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=26&pause=1000&repeat=false&color=4A3F35&background=FFFFFF00&center=true&vCenter=true&width=180&lines=About%20Me" />
 
-I build things, break things, then fix the things I broke — usually with a cup of coffee nearby and five browser tabs of documentation open. I'm a CS student who genuinely enjoys tinkering with new tools, languages, and the occasional 2 AM "why is this not working" spiral.
+<p>
+<img alt="N/A" src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=16&pause=1000&repeat=false&color=4A3F35&background=FFFFFF00&center=false&vCenter=true&width=760&lines=I%20build%20things%2C%20break%20things%2C%20then%20fix%20the%20things%20I%20broke%20%E2%80%94" /><br/>
+<img alt="N/A" src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=16&pause=1000&repeat=false&color=4A3F35&background=FFFFFF00&center=false&vCenter=true&width=820&lines=usually%20with%20a%20cup%20of%20coffee%20nearby%20and%20five%20browser%20tabs%20of%20documentation%20open." /><br/>
+<img alt="N/A" src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=16&pause=1000&repeat=false&color=4A3F35&background=FFFFFF00&center=false&vCenter=true&width=780&lines=I'm%20a%20CS%20student%20who%20genuinely%20enjoys%20tinkering%20with%20new%20tools%2C%20languages%2C" /><br/>
+<img alt="N/A" src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=16&pause=1000&repeat=false&color=4A3F35&background=FFFFFF00&center=false&vCenter=true&width=700&lines=and%20the%20occasional%202%20AM%20%22why%20is%20this%20not%20working%22%20spiral." />
+</p>
 
 <table align="center">
 <tr>
 <td>
 
-🎓 B.Tech Computer Science
-💻 Software Development
-🌱 Currently learning & experimenting
-🧠 Interested in AI, cybersecurity & software development
-🚀 Building projects and improving every day
+🎓 <img alt="B.Tech Computer Science" src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=16&pause=1000&repeat=false&color=4A3F35&background=FFFFFF00&center=false&vCenter=true&width=180&lines=B.Tech%20Computer%20Science" />
+💻 <img alt="Software Development" src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=16&pause=1000&repeat=false&color=4A3F35&background=FFFFFF00&center=false&vCenter=true&width=190&lines=Software%20Development" />
+🌱 <img alt="Currently learning & experimenting" src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=16&pause=1000&repeat=false&color=4A3F35&background=FFFFFF00&center=false&vCenter=true&width=270&lines=Currently%20learning%20%26%20experimenting" />
+🧠 <img alt="Interested in AI, cybersecurity & software development" src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=16&pause=1000&repeat=false&color=4A3F35&background=FFFFFF00&center=false&vCenter=true&width=440&lines=Interested%20in%20AI%2C%20cybersecurity%20%26%20software%20development" />
+🚀 <img alt="Building projects and improving every day" src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=16&pause=1000&repeat=false&color=4A3F35&background=FFFFFF00&center=false&vCenter=true&width=340&lines=Building%20projects%20and%20improving%20every%20day" />
 
 </td>
 </tr>
 </table>
 
-<sub>🖍️ *Brain moment: wrote 40 lines of code, 38 of them were `console.log`.*</sub>
+<sub>🖍️ <img alt="Brain moment: wrote 40 lines of code, 38 of them were console.log." src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=14&pause=1000&repeat=false&color=4A3F35&background=FFFFFF00&center=false&vCenter=true&width=500&lines=Brain%20moment%3A%20wrote%2040%20lines%20of%20code%2C%2038%20of%20them%20were%20console.log." /></sub>
 
 ---
 
-## 🖍️ Tech Stack
+### 🖍️ <img alt="Tech Stack" src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=26&pause=1000&repeat=false&color=F7B7A3&background=FFFFFF00&center=true&vCenter=true&width=160&lines=Tech%20Stack" />
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-**Languages**
+<img alt="Languages" src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=18&pause=1000&repeat=false&color=4A3F35&background=FFFFFF00&center=false&vCenter=true&width=120&lines=Languages" />
 
 ![N/A](https://skillicons.dev/icons?i=java,python,js&theme=light)
 
-**Frontend**
+<img alt="Frontend" src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=18&pause=1000&repeat=false&color=4A3F35&background=FFFFFF00&center=false&vCenter=true&width=110&lines=Frontend" />
 
 ![N/A](https://skillicons.dev/icons?i=html,css,js&theme=light)
 
 </td>
 <td valign="top" width="50%">
 
-**Backend & Database**
+<img alt="Backend & Database" src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=18&pause=1000&repeat=false&color=4A3F35&background=FFFFFF00&center=false&vCenter=true&width=210&lines=Backend%20%26%20Database" />
 
 ![N/A](https://skillicons.dev/icons?i=java,python,mysql&theme=light)
 
-**Dev Tools**
+<img alt="Dev Tools" src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=18&pause=1000&repeat=false&color=4A3F35&background=FFFFFF00&center=false&vCenter=true&width=110&lines=Dev%20Tools" />
 
 ![N/A](https://skillicons.dev/icons?i=git,github,linux,idea,webstorm,datagrip&theme=light)
 
@@ -91,12 +99,12 @@ I build things, break things, then fix the things I broke — usually with a cup
 
 ---
 
-## 📓 Featured Projects
+### 📓 <img alt="Featured Projects" src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=26&pause=1000&repeat=false&color=AEE1F9&background=FFFFFF00&center=true&vCenter=true&width=210&lines=Featured%20Projects" />
 
-<!-- 🖍️ PLACEHOLDER SECTION — no repos were confirmed, so these are
-     empty notebook-panel templates. Duplicate a <td> block per project
-     and fill in the real name/description/tech/links, then delete
-     any panels you don't need. -->
+<!-- 🖍️ PLACEHOLDER SECTION — kept as real, editable text on purpose
+     (not converted to images) so you can easily replace it with your
+     actual project info. Duplicate a <td> block per project and fill
+     in the real name/description/tech/links, then delete unused ones. -->
 
 <table>
 <tr>
@@ -129,11 +137,11 @@ _One-line description of what it does goes here._
 
 ---
 
-## 🌱 My Coding Garden
+### 🌱 <img alt="My Coding Garden" src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=26&pause=1000&repeat=false&color=B8E8C1&background=FFFFFF00&center=true&vCenter=true&width=220&lines=My%20Coding%20Garden" />
 
 <div align="center">
 
-_Small commits. Big progress._
+<img alt="Small commits. Big progress." src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=16&pause=1000&repeat=false&color=F7B7A3&background=FFFFFF00&center=true&vCenter=true&width=260&lines=Small%20commits.%20Big%20progress." />
 
 <!-- 🖍️ Contribution graph — third-party service, occasionally slow/rate-limited.
      If it stops loading reliably, it's safe to delete this whole block;
@@ -144,17 +152,17 @@ _Small commits. Big progress._
 
 ---
 
-## 🎮 Life Outside the Terminal
+### 🎮 <img alt="Life Outside the Terminal" src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=26&pause=1000&repeat=false&color=FFCB77&background=FFFFFF00&center=true&vCenter=true&width=290&lines=Life%20Outside%20the%20Terminal" />
 
 <table align="center">
 <tr>
 <td>
 
-☕ Coffee + Code
-🎮 Games
-🎬 Anime / cartoons
-🧠 Learning random tech at 2 AM
-🐛 Fighting bugs that I created myself
+☕ <img alt="Coffee + Code" src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=16&pause=1000&repeat=false&color=4A3F35&background=FFFFFF00&center=false&vCenter=true&width=140&lines=Coffee%20%2B%20Code" />
+🎮 <img alt="Games" src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=16&pause=1000&repeat=false&color=4A3F35&background=FFFFFF00&center=false&vCenter=true&width=80&lines=Games" />
+🎬 <img alt="Anime / cartoons" src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=16&pause=1000&repeat=false&color=4A3F35&background=FFFFFF00&center=false&vCenter=true&width=170&lines=Anime%20%2F%20cartoons" />
+🧠 <img alt="Learning random tech at 2 AM" src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=16&pause=1000&repeat=false&color=4A3F35&background=FFFFFF00&center=false&vCenter=true&width=280&lines=Learning%20random%20tech%20at%202%20AM" />
+🐛 <img alt="Fighting bugs that I created myself" src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=16&pause=1000&repeat=false&color=4A3F35&background=FFFFFF00&center=false&vCenter=true&width=310&lines=Fighting%20bugs%20that%20I%20created%20myself" />
 
 </td>
 </tr>
@@ -162,11 +170,11 @@ _Small commits. Big progress._
 
 ---
 
-## 📊 GitHub Stats
+### 📊 <img alt="GitHub Stats" src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=26&pause=1000&repeat=false&color=4A3F35&background=FFFFFF00&center=true&vCenter=true&width=180&lines=GitHub%20Stats" />
 
 <div align="center">
 
-**Most Used Languages**
+<img alt="Most Used Languages" src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=18&pause=1000&repeat=false&color=4A3F35&background=FFFFFF00&center=true&vCenter=true&width=260&lines=Most%20Used%20Languages" />
 
 ![N/A](https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=light&perline=6)
 
@@ -178,7 +186,7 @@ _Small commits. Big progress._
 
 ---
 
-## 🧩 LeetCode
+### 🧩 <img alt="LeetCode" src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=26&pause=1000&repeat=false&color=F7B7A3&background=FFFFFF00&center=true&vCenter=true&width=130&lines=LeetCode" />
 
 <div align="center">
 
@@ -194,12 +202,12 @@ _Small commits. Big progress._
 <div align="center">
 <img alt="N/A" src="https://capsule-render.vercel.app/api?type=rect&color=FFF3B0&height=100&text=Better%20code.%20Brighter%20tomorrow.&fontSize=20&fontColor=4A3F35&fontAlignY=45&fontFamily=Patrick+Hand&width=900" width="90%"/>
 <br/>
-<sub>🖍️ Consistent progress beats occasional perfection.</sub>
+<img alt="Consistent progress beats occasional perfection." src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=14&pause=1000&repeat=false&color=4A3F35&background=FFFFFF00&center=true&vCenter=true&width=420&lines=%F0%9F%96%8D%EF%B8%8F%20Consistent%20progress%20beats%20occasional%20perfection." />
 </div>
 
 ---
 
-## 🍯 Connect
+### 🍯 <img alt="Connect" src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=26&pause=1000&repeat=false&color=4A3F35&background=FFFFFF00&center=true&vCenter=true&width=130&lines=Connect" />
 
 <div align="center">
 
@@ -212,7 +220,7 @@ _Small commits. Big progress._
 
 </div>
 
-<!-- 🖍️ Small doodle stars — generic decoration, swap for your own art if you like -->
+<!-- 🖍️ Small doodle stars — generic decoration -->
 <p align="center">
 <svg width="120" height="30" viewBox="0 0 120 30" xmlns="http://www.w3.org/2000/svg">
   <polygon points="15,2 18,11 27,11 20,17 22,26 15,20 8,26 10,17 3,11 12,11"
