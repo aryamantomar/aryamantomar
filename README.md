@@ -1,21 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=aa744e&height=200&section=header&text=Aryaman%20Tomar&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=B.Tech%20Computer%20Science%20Student&descAlignY=55&descSize=18" width="100%"/>
+<img alt="N/A" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:10b981&height=200&section=header&text=Aryaman%20Tomar&fontSize=42&fontColor=e2e8f0&animation=fadeIn&fontAlignY=35&desc=B.Tech%20Computer%20Science%20Student&descAlignY=55&descSize=18&fontFamily=JetBrains+Mono" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=AA744E&center=true&vCenter=true&width=600&lines=B.Tech+Computer+Science+Student;Java+%7C+Python+%7C+JavaScript+Developer;Learning+%2C+Building+%26+Shipping+Code;Exploring+AI-assisted+Development" alt="Typing SVG" />
+  <img alt="N/A" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=10B981&background=0F172A00&center=true&vCenter=true&width=650&lines=B.Tech+Computer+Science+Student;Java+%7C+Python+%7C+JavaScript+Developer;Learning%2C+Building+%26+Shipping+Code;Exploring+AI-assisted+Development" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=aryamantomar&color=aa744e&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/aryamantomar?color=aa744e&style=flat-square&label=Followers)
+![N/A](https://komarev.com/ghpvc/?username=aryamantomar&color=10b981&style=flat-square&label=Profile+Views)
+![N/A](https://img.shields.io/github/followers/aryamantomar?color=10b981&style=flat-square&label=Followers&logo=github&logoColor=e2e8f0)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+`Java` • `Python` • `JavaScript` • `MySQL` • `Git`
 
 </div>
 
 ---
 
-### 🧑‍💻 Who I Am
+### `>` who_i_am.ts
 
 ```typescript
 const aryamanTomar = {
@@ -32,78 +40,85 @@ const aryamanTomar = {
   certifications: [],
   status: "focused on leveling up as a CS student",
   openTo: "collaborations & learning opportunities",
-};
+} as const;
 ```
 
 ---
 
-### 🛠️ Tech Stack
+### `>` tech_stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 **Languages**
 
-![Skills](https://skillicons.dev/icons?i=java,python,js)
+![N/A](https://skillicons.dev/icons?i=java,python,js&theme=dark)
 
 **Frontend**
 
-![Skills](https://skillicons.dev/icons?i=html,css,js)
+![N/A](https://skillicons.dev/icons?i=html,css,js&theme=dark)
 
-**Backend**
+</td>
+<td valign="top" width="50%">
 
-![Skills](https://skillicons.dev/icons?i=java,python)
+**Backend & Database**
 
-**Database**
-
-![Skills](https://skillicons.dev/icons?i=mysql)
+![N/A](https://skillicons.dev/icons?i=java,python,mysql&theme=dark)
 
 **Dev Tools**
 
-![Skills](https://skillicons.dev/icons?i=git,github,linux,idea,webstorm,datagrip)
+![N/A](https://skillicons.dev/icons?i=git,github,linux,idea,webstorm,datagrip&theme=dark)
+
+</td>
+</tr>
+</table>
 
 **AI Tools**
 
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![N/A](https://img.shields.io/badge/Claude-0F172A?style=flat-square&logo=anthropic&logoColor=10b981)
+![N/A](https://img.shields.io/badge/ChatGPT-0F172A?style=flat-square&logo=openai&logoColor=10b981)
 
 ---
 
-### 📊 GitHub Stats
+### `>` github_stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aryamantomar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=aa744e&icon_color=aa744e&text_color=c9d1d9&border_color=aa744e" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryamantomar&layout=compact&hide_border=true&bg_color=0d1117&title_color=aa744e&text_color=c9d1d9&border_color=aa744e" width="49%"/>
+<img alt="N/A" src="https://github-readme-stats.vercel.app/api?username=aryamantomar&show_icons=true&hide_border=true&bg_color=0F172A&title_color=10b981&icon_color=10b981&text_color=e2e8f0" width="49%"/>
+<img alt="N/A" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryamantomar&layout=compact&hide_border=true&bg_color=0F172A&title_color=10b981&text_color=e2e8f0" width="49%"/>
 
-<img src="https://streak-stats.demolab.com/?user=aryamantomar&hide_border=true&background=0d1117&stroke=aa744e&ring=aa744e&fire=aa744e&currStreakLabel=aa744e&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="70%"/>
+<img alt="N/A" src="https://streak-stats.demolab.com/?user=aryamantomar&hide_border=true&background=0F172A&stroke=10b981&ring=10b981&fire=10b981&currStreakLabel=10b981&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b" width="70%"/>
 
 </div>
 
-### 🏆 Trophies
+### `>` trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aryamantomar&column=4&margin-w=10&margin-h=10&no-bg=true" width="90%"/>
+<img alt="N/A" src="https://github-profile-trophy.vercel.app/?username=aryamantomar&column=4&margin-w=10&margin-h=10&theme=algolia&no-bg=true" width="90%"/>
 
 </div>
 
-### 📈 Contribution Activity
+### `>` contribution_activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryamantomar&bg_color=0d1117&color=aa744e&line=aa744e&point=ffffff&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-### 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryamantomar)
-[![Email](https://img.shields.io/badge/Email-aa744e?style=for-the-badge&logo=gmail&logoColor=black)](mailto:developeraryamantomar@gmail.com)
+<img alt="N/A" src="https://github-readme-activity-graph.vercel.app/graph?username=aryamantomar&bg_color=0F172A&color=10b981&line=10b981&point=e2e8f0&area=true&hide_border=true" width="95%"/>
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=aa744e&height=120&section=footer&animation=twinkling" width="100%"/>
+### `>` connect
+
+<div align="center">
+
+[![N/A](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=10b981)](https://linkedin.com/in/aryamantomar)
+[![N/A](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=10b981)](mailto:developeraryamantomar@gmail.com)
+
+</div>
+
+---
+
+<img alt="N/A" src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,100:0f172a&height=120&section=footer&fontFamily=JetBrains+Mono" width="100%"/>
