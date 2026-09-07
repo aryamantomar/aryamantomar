@@ -1,141 +1,174 @@
+<div align="center">
+
+<img alt="N/A" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:C026D3,100:EC4899&height=210&section=header&text=Aryaman%20Tomar&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=B.Tech%20Computer%20Science%20Student&descAlignY=56&descSize=18&descColor=FDE68A&fontFamily=Poppins" width="100%"/>
+
+<img alt="N/A" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=C026D3&background=00000000&center=true&vCenter=true&width=640&lines=Building+with+Java%2C+Python+%26+JavaScript;Turning+coffee+into+commits;Always+debugging+something;Currently+leveling+up+on+LeetCode" />
+
+<br/>
+
+![N/A](https://komarev.com/ghpvc/?username=aryamantomar&color=C026D3&style=flat-square&label=Profile+Views)
+![N/A](https://img.shields.io/github/followers/aryamantomar?color=C026D3&style=flat-square&label=Followers&logo=github&logoColor=white)
+
+</div>
+
+<br/>
+
+<!-- 🎨 Cartoon-style doodle icon row (inline SVG, no external service) -->
 <p align="center">
-  <img src="shinchan-banner.png" alt="Aryaman GitHub Banner" width="100%">
+<svg width="360" height="70" viewBox="0 0 360 70" xmlns="http://www.w3.org/2000/svg">
+  <!-- laptop -->
+  <g transform="translate(10,10)">
+    <rect x="0" y="0" width="46" height="30" rx="4" fill="#22D3EE" stroke="#1F2937" stroke-width="2"/>
+    <rect x="4" y="4" width="38" height="22" rx="2" fill="#FFFFFF"/>
+    <path d="M20 10 L14 15 L20 20" stroke="#6D28D9" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M26 10 L32 15 L26 20" stroke="#6D28D9" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M-6 30 L52 30 L46 38 L0 38 Z" fill="#0EA5C9" stroke="#1F2937" stroke-width="2"/>
+  </g>
+  <!-- coffee cup -->
+  <g transform="translate(100,8)">
+    <path d="M22 5 C26 2, 32 3, 31 8 C30 12, 24 12, 22 9" fill="none" stroke="#1F2937" stroke-width="2"/>
+    <rect x="0" y="6" width="24" height="22" rx="3" fill="#FBBF24" stroke="#1F2937" stroke-width="2"/>
+    <rect x="0" y="28" width="24" height="4" fill="#1F2937"/>
+    <path d="M6 -2 Q8 2 6 4" stroke="#EC4899" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <path d="M12 -3 Q14 1 12 3" stroke="#EC4899" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <path d="M18 -2 Q20 2 18 4" stroke="#EC4899" stroke-width="2" fill="none" stroke-linecap="round"/>
+  </g>
+  <!-- rocket -->
+  <g transform="translate(175,2)">
+    <path d="M14 0 C20 6, 20 18, 14 26 C8 18, 8 6, 14 0 Z" fill="#EC4899" stroke="#1F2937" stroke-width="2"/>
+    <circle cx="14" cy="10" r="3.2" fill="#FFFFFF" stroke="#1F2937" stroke-width="1.5"/>
+    <path d="M8 18 L2 26 L9 24 Z" fill="#FBBF24" stroke="#1F2937" stroke-width="1.5"/>
+    <path d="M20 18 L26 26 L19 24 Z" fill="#FBBF24" stroke="#1F2937" stroke-width="1.5"/>
+    <path d="M11 25 L14 34 L17 25 Z" fill="#22D3EE" stroke="#1F2937" stroke-width="1.5"/>
+  </g>
+  <!-- lightbulb -->
+  <g transform="translate(240,4)">
+    <circle cx="14" cy="14" r="12" fill="#FDE68A" stroke="#1F2937" stroke-width="2"/>
+    <rect x="9" y="24" width="10" height="6" rx="1.5" fill="#94A3B8" stroke="#1F2937" stroke-width="1.5"/>
+    <path d="M10 14 L14 8 L18 14 L14 20 Z" fill="#6D28D9" opacity="0.6"/>
+  </g>
+  <!-- star -->
+  <g transform="translate(300,6)">
+    <polygon points="16,0 20,11 32,11 22,18 26,30 16,22 6,30 10,18 0,11 12,11"
+             fill="#22D3EE" stroke="#1F2937" stroke-width="1.5"/>
+  </g>
+</svg>
 </p>
 
-<h1 align="center">Hey there! 👋 I'm Aryaman</h1>
+---
 
-<p align="center">
-  <b>💻 B.Tech Computer Science Student • 🛠️ Builder • 🚀 Always Learning</b>
-</p>
+### About
 
-<p align="center">
-  <i>"Same kid... bigger dreams!"</i>
-</p>
+I'm a B.Tech Computer Science student who enjoys building things end-to-end — from backend logic to the interface people actually touch. Most days involve some mix of Java, Python, JavaScript, and whatever new tool I've decided to break my workflow with this week. Currently spending a lot of time on LeetCode and sharpening the fundamentals.
 
 ---
 
-## 🟥 About Me
-
-- 👨‍💻 I enjoy building practical projects and turning ideas into code.
-- 🌱 Currently learning, experimenting, and improving through projects.
-- 🎯 Interested in software development, AI, cloud, and problem solving.
-- 🎮 Outside coding: anime, music, games, and good food.
-
-> 🖍️ **Same kid... just with a laptop now!**
-
----
-
-## 🟨 Quick Facts
-
-| | |
-|---|---|
-| 🎓 | B.Tech — Computer Science |
-| 💡 | Practical project builder |
-| 🧠 | Exploring AI & Cloud |
-| 🛠️ | Java • Python • JavaScript • SQL |
-| 🐧 | Linux / Ubuntu |
-| 🎯 | Progress over perfection |
-
----
-
-## 🟩 Tech Stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Web & Tools
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111)
-![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
-![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)
-
----
-
-## 🩷 Featured Projects
+### Tech Stack
 
 <table>
-  <tr>
-    <td width="33%" valign="top">
+<tr>
+<td valign="top" width="50%">
 
-### 🎮 Retro Games Hub
+**Languages**
 
-A collection of classic games with a modern web interface.
+![N/A](https://skillicons.dev/icons?i=java,python,js&theme=light)
 
-**Stack:** HTML • CSS • JavaScript
+**Frontend**
 
-</td>
-    <td width="33%" valign="top">
-
-### 🤖 AI / Cybersecurity
-
-Exploring AI-based approaches for cyber attack detection and prevention.
-
-**Stack:** Python • AI/ML
+![N/A](https://skillicons.dev/icons?i=html,css,js&theme=light)
 
 </td>
-    <td width="33%" valign="top">
+<td valign="top" width="50%">
 
-### ☁️ Cloud + AI
+**Backend & Database**
 
-Exploring autonomous cloud resource management using agentic AI concepts.
+![N/A](https://skillicons.dev/icons?i=java,python,mysql&theme=light)
 
-**Stack:** Python • Cloud • AI
+**Dev Tools**
+
+![N/A](https://skillicons.dev/icons?i=git,github,linux,idea,webstorm,datagrip&theme=light)
 
 </td>
-  </tr>
+</tr>
 </table>
 
 ---
 
-## 🟦 GitHub Stats
+### Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryamantomar&show_icons=true&hide_border=true&bg_color=fff7e6&title_color=e63946&icon_color=f4b400&text_color=333333" height="165" alt="Aryaman's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryamantomar&layout=compact&hide_border=true&bg_color=fff7e6&title_color=e63946&text_color=333333" height="165" alt="Top languages">
-</p>
+<!-- No repos were confirmed, so these are clearly marked placeholder
+     templates. Duplicate a <td> block per project, fill in the real
+     name/description/tech/links, then delete any panels you don't need. -->
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aryamantomar&hide_border=true&background=FFF7E6&ring=E63946&fire=F4B400&currStreakLabel=E63946" alt="GitHub streak">
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+**🟣 [ PROJECT NAME HERE ]**
 
-## 🟪 Currently
+_One-line description of what it does goes here._
 
-- 🔨 Building new projects
-- 📚 Improving problem-solving skills
-- 🤖 Exploring AI and Cloud
-- 🌐 Learning through practical development
-- 🌱 Becoming a better developer one project at a time
+`Tech: e.g. Java, MySQL`
 
----
+<!-- Replace # with real links -->
+[Code](#) &nbsp;•&nbsp; [Live Demo](#)
 
-## 💙 Connect With Me
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-  <a href="https://github.com/aryamantomar">
-    <img src="https://img.shields.io/badge/GitHub-aryamantomar-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/aryamantomar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aryaman_Tomar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:developeraryamantomar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+**🩷 [ PROJECT NAME HERE ]**
+
+_One-line description of what it does goes here._
+
+`Tech: e.g. Python, Flask`
+
+<!-- Replace # with real links -->
+[Code](#) &nbsp;•&nbsp; [Live Demo](#)
+
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <b>🖍️ Code • Learn • Build • Repeat</b><br>
-  <i>Thanks for visiting my little corner of GitHub!</i>
-</p>
+### GitHub Stats
+
+<div align="center">
+
+**Most Used Languages**
+
+![N/A](https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=light&perline=6)
+
+<br/>
+
+<img alt="N/A" src="https://streak-stats.demolab.com/?user=aryamantomar&hide_border=true&background=1E1B4B&stroke=C026D3&ring=22D3EE&fire=FBBF24&currStreakLabel=FBBF24&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A5B4FC" width="70%"/>
+
+</div>
+
+---
+
+### LeetCode
+
+<div align="center">
+
+<a href="https://leetcode.com/u/ToZYjfYfK3/">
+  <img alt="N/A" src="https://leetcard.jacoblin.cool/ToZYjfYfK3?theme=dark&ext=heatmap" width="90%"/>
+</a>
+
+</div>
+
+---
+
+### Connect
+
+<div align="center">
+
+[![N/A](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryamantomar)
+[![N/A](https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developeraryamantomar@gmail.com)
+[![N/A](https://img.shields.io/badge/LeetCode-22D3EE?style=for-the-badge&logo=leetcode&logoColor=1F2937)](https://leetcode.com/u/ToZYjfYfK3/)
+
+</div>
+
+---
+
+<img alt="N/A" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:C026D3,100:6D28D9&height=120&section=footer&fontFamily=Poppins" width="100%"/>
