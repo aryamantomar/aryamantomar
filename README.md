@@ -108,7 +108,7 @@
 │  JAVA                 ███████████████████░░   LEARNING      │
 │  SPRING BOOT          ████████████████░░░░░   BUILDING      │
 │  DSA                  ███████████████░░░░░░   GRINDING      │
-│  REACT                ████████████░░░░░░░░   EXPLORING     │
+│  REACT                ████████████░░░░░░░░   EXPLORING      │
 │  SQL                  ███████████████░░░░░░   PRACTICING    │
 │                                                             │
 │  STATUS               ● ONLINE                              │
@@ -171,23 +171,23 @@
 ║                                                              ║
 ║  [01] Java Backend                                           ║
 ║       ├── Core Java                                          ║
-║       ├── Collections                                       ║
-║       ├── Multithreading                                    ║
-║       └── Advanced Java                                     ║
+║       ├── Collections                                        ║
+║       ├── Multithreading                                     ║
+║       └── Advanced Java                                      ║
 ║                                                              ║
 ║  [02] Spring Ecosystem                                       ║
 ║       ├── Spring Core                                        ║
-║       ├── Dependency Injection                              ║
-║       ├── Spring Boot                                       ║
+║       ├── Dependency Injection                               ║
+║       ├── Spring Boot                                        ║
 ║       ├── REST APIs                                          ║
-║       └── Spring Security                                   ║
+║       └── Spring Security                                    ║
 ║                                                              ║
-║  [03] DSA                                                     ║
-║       ├── Arrays & Strings                                  ║
-║       ├── Linked Lists                                      ║
+║  [03] DSA                                                    ║
+║       ├── Arrays & Strings                                   ║
+║       ├── Linked Lists                                       ║
 ║       ├── Trees                                              ║
 ║       ├── Graphs                                             ║
-║       └── Dynamic Programming                               ║
+║       └── Dynamic Programming                                ║
 ║                                                              ║
 ║  [04] Full Stack                                             ║
 ║       ├── JavaScript                                         ║
@@ -254,10 +254,10 @@
 ```text
 ┌──────────────────────────────────────────────┐
 │                                              │
-│        LET'S BUILD SOMETHING COOL.          │
+│        LET'S BUILD SOMETHING COOL.           │
 │                                              │
-│        [ GitHub ] [ LinkedIn ]              │
-│        [ LeetCode ] [ Email ]               │
+│        [ GitHub ] [ LinkedIn ]               │
+│        [ LeetCode ] [ Email ]                │
 │                                              │
 └──────────────────────────────────────────────┘
 ```
