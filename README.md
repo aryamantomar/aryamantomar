@@ -122,15 +122,32 @@
 
 ---
 
-# 🌈 Contribution Playground
+# 🎬 Animations & Motion
 
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=aryamantomar&theme=tokyo-night"
-  width="100%"
-  alt="GitHub Contribution Graph"
-/>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=180&section=header&text=Welcome%20to%20Aryaman's%20World!&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
+
+<br>
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Baloo+2&weight=700&size=25&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Java+Backend+Developer+☕;DSA+Enthusiast+🧠;Full+Stack+Developer+💻;Always+Learning+%26+Building+🚀" alt="Typing Animation"/>
+
+<br><br>
+
+<!-- Animated Tech Logos -->
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,python,mysql,mongodb,docker,git,linux&perline=10" alt="Tech Stack"/>
+
+<br><br>
+
+<!-- Coding Animation -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
+
+<br><br>
+
+<!-- Developer Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Baloo+2&weight=600&size=20&duration=3500&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Code+it+💻;Debug+it+🐛;Fix+it+🔧;Ship+it+🚀;Repeat+it+∞" alt="Developer Animation"/>
 
 </div>
 
@@ -169,3 +186,78 @@
    ├── 🟢 CSS
    ├── 🟡 JavaScript
    └── 🟡 React
+```
+
+</div>
+
+---
+
+# 💻 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/aryamantomar">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryamantomar&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=FF69B4&text_color=FFFFFF" />
+</a>
+
+<a href="https://github.com/aryamantomar">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryamantomar&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=FF69B4&text_color=FFFFFF" />
+</a>
+
+</div>
+
+---
+
+# 🧩 DSA Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/ToZYjfYfK3/">
+  <img src="https://img.shields.io/badge/🟠%20LeetCode-ToZYjfYfK3-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+  <img src="https://img.shields.io/badge/🟢%20GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
+</a>
+
+<a href="https://www.codechef.com/">
+  <img src="https://img.shields.io/badge/🔵%20CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white">
+</a>
+
+</div>
+
+---
+
+# 🤝 Let's Connect!
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/aryamantomar/">
+  <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:developeraryamantomar@gmail.com">
+  <img src="https://img.shields.io/badge/📧%20Email-Contact-D14836?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://leetcode.com/u/ToZYjfYfK3/">
+  <img src="https://img.shields.io/badge/🧠%20LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎨 Code • Learn • Build • Repeat 🚀
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=aryamantomar&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1">
+
+<br><br>
+
+⭐ **If you like my work, consider starring my repositories!** ⭐
+
+</div>
