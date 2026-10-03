@@ -1,154 +1,231 @@
-<!-- Main Heading -->
-
-<h1 align="center">Hi, I'm Aryaman Tomar 👋</h1>
-
-<p align="center">
-  <strong>B.Tech Computer Science Engineering Student | Aspiring Software Engineer</strong>
-</p>
-
-<p align="center">
-  <a href="mailto:developeraryamantomar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-developeraryamantomar%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/aryamantomar/">
-    <img src="https://img.shields.io/badge/LinkedIn-aryamantomar-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://leetcode.com/u/ToZYjfYfK3/">
-    <img src="https://img.shields.io/badge/LeetCode-ToZYjfYfK3-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
-  </a>
-  <a href="https://github.com/aryamantomar">
-    <img src="https://img.shields.io/badge/GitHub-aryamantomar-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 B.Tech Computer Science Engineering student at **AKGEC**, affiliated with **AKTU**
-- 📚 Currently in my **5th semester**
-- 💻 Focused on **Java Backend Development, DSA and Full-Stack Development**
-- 🌱 Currently learning and strengthening **Java, Spring Boot, React and Data Structures & Algorithms**
-- 🧠 Actively practicing problem solving on **LeetCode**
-- 🚀 Preparing for **Software Engineering internships and placements**
-- 📍 India
-
----
-
-## 🛠️ Languages & Technologies
-
-### 💻 Languages
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="SQL">
-</p>
-
-### ⚙️ Frameworks & Libraries
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="Spring">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="45" alt="Vite">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" height="45" alt="Axios">
-</p>
-
-### 🔧 Tools & Platforms
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code">
-</p>
-
----
-
-## 🧩 Areas of Interest
-
-- Data Structures & Algorithms
-- Java Backend Development
-- Spring Boot
-- REST APIs
-- Full-Stack Development
-- React
-- Software Engineering
-- Problem Solving
-
----
-
-## 🧠 DSA & LeetCode
-
-I actively practice **Data Structures & Algorithms using Java** and solve problems on LeetCode.
-
-### Topics I work on
-
-- Arrays & Strings
-- Linked Lists
-- Stacks & Queues
-- Hashing
-- Recursion & Backtracking
-- Trees & Binary Search Trees
-- Heaps
-- Graphs
-- Greedy Algorithms
-- Dynamic Programming
-- Binary Search
-- Sorting & Searching
-- Red-Black Trees
-- B-Trees
-- Binomial & Fibonacci Heaps
-- Dijkstra, Kruskal & Prim
-
-<a href="https://leetcode.com/u/ToZYjfYfK3/">
-  <img src="https://img.shields.io/badge/LeetCode-View%20Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile">
-</a>
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aryamantomar&show_icons=true&theme=tokyonight&hide_border=true" alt="Aryaman's GitHub Stats">
+# Hi 👋, I'm Aryaman Tomar
 
-<br><br>
+### B.Tech Computer Science Student • Java Backend Developer • DSA Enthusiast
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryamantomar&theme=tokyonight&hide_border=true" alt="Aryaman's GitHub Streak">
+<p>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+  </a>
+  <a href="mailto:developeraryamantomar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryamantomar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
 
 </div>
 
 ---
 
-## 🔗 Connect With Me
+## 👨‍💻 About Me
 
-<p align="center">
-  <a href="https://github.com/aryamantomar">
-    <img src="https://img.shields.io/badge/GitHub-aryamantomar-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/aryamantomar/">
-    <img src="https://img.shields.io/badge/LinkedIn-aryamantomar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://leetcode.com/u/ToZYjfYfK3/">
-    <img src="https://img.shields.io/badge/LeetCode-ToZYjfYfK3-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode">
-  </a>
-  <a href="mailto:developeraryamantomar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
+- 🎓 B.Tech Computer Science student
+- 💻 Focused on **Java Backend Development**
+- 🌱 Currently working with **Java, Spring Boot, React & DSA**
+- 🧠 Improving problem-solving through **LeetCode**
+- 🔨 Building projects to strengthen my development skills
+- 🎯 Interested in backend systems, APIs and full-stack development
+- 📍 India
+- 📫 Reach me at **developeraryamantomar@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea,postman" />
 </p>
 
 ---
 
-<p align="center">
-  <i>"Code. Learn. Build. Repeat."</i>
-</p>
+# 🧠 LeetCode Progress
+
+<div align="center">
+
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats">
+
+</a>
+
+</div>
+
+### Problem Solving
+
+| Difficulty | Progress |
+|:---:|:---:|
+| 🟢 Easy | `████████████░░░░░░░░` |
+| 🟡 Medium | `████████░░░░░░░░░░░░` |
+| 🔴 Hard | `███░░░░░░░░░░░░░░░░░` |
+
+> Replace the bars above with your current progress whenever you want a custom static display. The LeetCard above automatically fetches your LeetCode statistics.
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180">
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%">
+
+</div>
+
+---
+
+# 🚀 What I'm Currently Learning
+
+```text
+Java
+ ├── Core Java
+ ├── Collections Framework
+ ├── Multithreading
+ └── Advanced Java
+
+Spring
+ ├── Spring Core
+ ├── Dependency Injection
+ ├── Spring Boot
+ ├── REST APIs
+ └── Spring Security
+
+DSA
+ ├── Arrays & Strings
+ ├── Linked Lists
+ ├── Trees
+ ├── Graphs
+ ├── Dynamic Programming
+ └── Competitive Programming
+
+Frontend
+ ├── HTML
+ ├── CSS
+ ├── JavaScript
+ └── React
+```
+
+---
+
+# 💻 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_1&theme=tokyonight&hide_border=true">
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_2&theme=tokyonight&hide_border=true">
+</a>
+
+</div>
+
+---
+
+# 📚 DSA & Problem Solving
+
+<div align="center">
+
+| Platform | Profile |
+|:---:|:---:|
+| 🟠 LeetCode | [My Profile](https://leetcode.com/u/YOUR_LEETCODE_USERNAME/) |
+| 🟢 GeeksforGeeks | [My Profile](https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/) |
+| 🔵 CodeChef | [My Profile](https://www.codechef.com/users/YOUR_CODECHEF_USERNAME) |
+| 🟣 HackerRank | [My Profile](https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME) |
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:developeraryamantomar@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Code. Learn. Build. Repeat."
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10">
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ If you find my repositories useful, consider giving them a star!
+
+</div>
