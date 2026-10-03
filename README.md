@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Aryaman Tomar!
 
-### 🎨 B.Tech CSE Student • ☕ Java Backend Developer • 🧠 DSA Enthusiast
+### 🎨 B.Tech Computer Science Student • ☕ Java Backend Developer • 🧠 DSA Enthusiast
 
 <p>
   <a href="https://github.com/aryamantomar">
@@ -31,8 +31,8 @@
 
 - 🎓 B.Tech Computer Science student
 - ☕ Java Backend Developer
-- 🌱 Learning **Java, Spring Boot, React & DSA**
-- 🧠 Solving problems on **LeetCode**
+- 🌱 Currently working with **Java, Spring Boot, React & DSA**
+- 🧠 Improving problem-solving through **LeetCode**
 - 🔨 Building projects and experimenting with new technologies
 - 🎯 Interested in **Backend Systems, REST APIs & Full-Stack Development**
 - 📍 India
@@ -40,81 +40,79 @@
 
 ---
 
-## 🎨 My Tech Universe
+# 🎨 Tech Universe
 
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
 </p>
 
 ### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 </p>
 
 ### 🖥️ Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,vite" />
+  <img src="https://skillicons.dev/icons?i=react,vite" />
 </p>
 
 ### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### 🧰 Tools
+### 🧰 Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea,postman" />
 </p>
 
 ---
 
-# 🧠 My LeetCode Journey
+# 🧠 LeetCode Journey
 
 <div align="center">
 
 <a href="https://leetcode.com/u/ToZYjfYfK3/">
 
-<img src="https://leetcard.jacoblin.cool/ToZYjfYfK3?theme=unicorn&font=Baloo%202&ext=heatmap" width="500" alt="Aryaman's LeetCode Stats">
+<img src="https://leetcard.jacoblin.cool/ToZYjfYfK3?theme=dark&font=Baloo%202&ext=heatmap" width="500" alt="Aryaman's LeetCode Stats">
 
 </a>
-
-<br>
-
-### 🧩 Problem Solving
-
-<img src="https://img.shields.io/badge/🟢%20Easy-Solving%20Problems-8BC34A?style=for-the-badge&labelColor=222">
-<img src="https://img.shields.io/badge/🟡%20Medium-Leveling%20Up-FFC107?style=for-the-badge&labelColor=222">
-<img src="https://img.shields.io/badge/🔴%20Hard-Boss%20Fight-FF5252?style=for-the-badge&labelColor=222">
 
 <br><br>
 
 <a href="https://leetcode.com/u/ToZYjfYfK3/">
-<img src="https://img.shields.io/badge/🎮%20PLAYING%20WITH%20ALGORITHMS-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+  <img src="https://img.shields.io/badge/🎮%20PLAYING%20WITH%20ALGORITHMS-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
 </a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🟢%20EASY-SOLVING%20PROBLEMS-8BC34A?style=for-the-badge&labelColor=1A1B27">
+<img src="https://img.shields.io/badge/🟡%20MEDIUM-LEVELING%20UP-FFC107?style=for-the-badge&labelColor=1A1B27">
+<img src="https://img.shields.io/badge/🔴%20HARD-BOSS%20FIGHT-FF5252?style=for-the-badge&labelColor=1A1B27">
 
 </div>
 
 ---
 
-# 📊 GitHub Cartoon Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aryamantomar&show_icons=true&theme=omni&hide_border=true&rank_icon=github&title_color=ff69b4&text_color=ffffff&icon_color=ffcc00&bg_color=1a1b27" height="180">
+<img src="https://github-readme-stats.vercel.app/api?username=aryamantomar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=1A1B27&title_color=FF69B4&text_color=FFFFFF&icon_color=FFD700" height="180">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryamantomar&layout=compact&theme=omni&hide_border=true&title_color=ff69b4&text_color=ffffff&bg_color=1a1b27" height="180">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryamantomar&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=FF69B4&text_color=FFFFFF" height="180">
 
 </div>
 
 ---
 
-# 🔥 Coding Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
@@ -128,7 +126,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryamantomar&theme=react-dark&hide_border=true&area=true&radius=16" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryamantomar&theme=tokyo-night&hide_border=true&area=true&radius=16" width="100%">
 
 </div>
 
@@ -139,11 +137,11 @@
 <div align="center">
 
 ```text
-       🎮 ARYAMAN'S DEVELOPER QUEST 🎮
+        🎮 ARYAMAN'S DEVELOPER QUEST 🎮
 
 ☕ JAVA
    ├── 🟢 Core Java
-   ├── 🟢 Collections
+   ├── 🟢 Collections Framework
    ├── 🟡 Multithreading
    └── 🟡 Advanced Java
 
@@ -167,78 +165,3 @@
    ├── 🟢 CSS
    ├── 🟡 JavaScript
    └── 🟡 React
-```
-
-</div>
-
----
-
-# 💻 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/aryamantomar">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aryamantomar&repo=YOUR_PROJECT_1&theme=omni&hide_border=true" />
-</a>
-
-<a href="https://github.com/aryamantomar">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aryamantomar&repo=YOUR_PROJECT_2&theme=omni&hide_border=true" />
-</a>
-
-</div>
-
----
-
-# 🧩 DSA Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/ToZYjfYfK3/">
-<img src="https://img.shields.io/badge/🟠%20LeetCode-ToZYjfYfK3-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/🟢%20GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/🔵%20CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white">
-</a>
-
-</div>
-
----
-
-# 🤝 Let's Connect!
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/aryamantomar/">
-<img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:developeraryamantomar@gmail.com">
-<img src="https://img.shields.io/badge/📧%20Email-Contact-D14836?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://leetcode.com/u/ToZYjfYfK3/">
-<img src="https://img.shields.io/badge/🧠%20LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 🎨 Code • Learn • Build • Repeat 🚀
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=aryamantomar&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1">
-
-<br><br>
-
-⭐ **If you like my work, consider starring my repositories!** ⭐
-
-</div>
