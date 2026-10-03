@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi 👋, I'm Aryaman Tomar
+# 👋 Hi, I'm Aryaman Tomar!
 
-### B.Tech Computer Science Student • Java Backend Developer • DSA Enthusiast
+### 🎨 B.Tech CSE Student • ☕ Java Backend Developer • 🧠 DSA Enthusiast
 
 <p>
   <a href="https://github.com/aryamantomar">
@@ -19,52 +19,54 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=aryamantomar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=aryamantomar&label=👀%20Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views">
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
+
+> 🚀 **Turning coffee ☕ into code 💻**
 
 - 🎓 B.Tech Computer Science student
-- 💻 Focused on **Java Backend Development**
-- 🌱 Currently working with **Java, Spring Boot, React & DSA**
-- 🧠 Improving problem-solving through **LeetCode**
-- 🔨 Building projects to strengthen my development skills
-- 🎯 Interested in backend systems, APIs and full-stack development
+- ☕ Java Backend Developer
+- 🌱 Learning **Java, Spring Boot, React & DSA**
+- 🧠 Solving problems on **LeetCode**
+- 🔨 Building projects and experimenting with new technologies
+- 🎯 Interested in **Backend Systems, REST APIs & Full-Stack Development**
 - 📍 India
-- 📫 Reach me at **developeraryamantomar@gmail.com**
+- 📫 **developeraryamantomar@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## 🎨 My Tech Universe
 
-### Languages
+### 💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
 </p>
 
-### Backend
+### ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 </p>
 
-### Frontend
+### 🖥️ Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,vite" />
 </p>
 
-### Databases
+### 🗄️ Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### Tools & Technologies
+### 🧰 Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea,postman" />
@@ -72,92 +74,102 @@
 
 ---
 
-# 🧠 LeetCode Progress
+# 🧠 My LeetCode Journey
 
 <div align="center">
 
 <a href="https://leetcode.com/u/ToZYjfYfK3/">
 
-<img src="https://leetcard.jacoblin.cool/ToZYjfYfK3?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats">
+<img src="https://leetcard.jacoblin.cool/ToZYjfYfK3?theme=unicorn&font=Baloo%202&ext=heatmap" width="500" alt="Aryaman's LeetCode Stats">
 
+</a>
+
+<br>
+
+### 🧩 Problem Solving
+
+<img src="https://img.shields.io/badge/🟢%20Easy-Solving%20Problems-8BC34A?style=for-the-badge&labelColor=222">
+<img src="https://img.shields.io/badge/🟡%20Medium-Leveling%20Up-FFC107?style=for-the-badge&labelColor=222">
+<img src="https://img.shields.io/badge/🔴%20Hard-Boss%20Fight-FF5252?style=for-the-badge&labelColor=222">
+
+<br><br>
+
+<a href="https://leetcode.com/u/ToZYjfYfK3/">
+<img src="https://img.shields.io/badge/🎮%20PLAYING%20WITH%20ALGORITHMS-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
 </a>
 
 </div>
 
-### Problem Solving
-
-| Difficulty | Progress |
-|:---:|:---:|
-| 🟢 Easy | `████████████░░░░░░░░` |
-| 🟡 Medium | `████████░░░░░░░░░░░░` |
-| 🔴 Hard | `███░░░░░░░░░░░░░░░░░` |
-
-> Replace the bars above with your current progress whenever you want a custom static display. The LeetCard above automatically fetches your LeetCode statistics.
-
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Cartoon Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aryamantomar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180">
+<img src="https://github-readme-stats.vercel.app/api?username=aryamantomar&show_icons=true&theme=omni&hide_border=true&rank_icon=github&title_color=ff69b4&text_color=ffffff&icon_color=ffcc00&bg_color=1a1b27" height="180">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryamantomar&layout=compact&theme=tokyonight&hide_border=true" height="180">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryamantomar&layout=compact&theme=omni&hide_border=true&title_color=ff69b4&text_color=ffffff&bg_color=1a1b27" height="180">
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Coding Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=aryamantomar&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+<img src="https://streak-stats.demolab.com?user=aryamantomar&theme=radical&hide_border=true&border_radius=15&background=1A1B27" alt="GitHub Streak">
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 🌈 Contribution Playground
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryamantomar&theme=tokyo-night&hide_border=true&area=true" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryamantomar&theme=react-dark&hide_border=true&area=true&radius=16" width="100%">
 
 </div>
 
 ---
 
-# 🚀 What I'm Currently Learning
+# 🚀 Currently Leveling Up
+
+<div align="center">
 
 ```text
-Java
- ├── Core Java
- ├── Collections Framework
- ├── Multithreading
- └── Advanced Java
+       🎮 ARYAMAN'S DEVELOPER QUEST 🎮
 
-Spring
- ├── Spring Core
- ├── Dependency Injection
- ├── Spring Boot
- ├── REST APIs
- └── Spring Security
+☕ JAVA
+   ├── 🟢 Core Java
+   ├── 🟢 Collections
+   ├── 🟡 Multithreading
+   └── 🟡 Advanced Java
 
-DSA
- ├── Arrays & Strings
- ├── Linked Lists
- ├── Trees
- ├── Graphs
- ├── Dynamic Programming
- └── Competitive Programming
+🌱 SPRING
+   ├── 🟢 Spring Core
+   ├── 🟢 Dependency Injection
+   ├── 🟡 Spring Boot
+   ├── 🟡 REST APIs
+   └── 🔴 Spring Security
 
-Frontend
- ├── HTML
- ├── CSS
- ├── JavaScript
- └── React
+🧠 DSA
+   ├── 🟢 Arrays & Strings
+   ├── 🟢 Linked Lists
+   ├── 🟡 Trees
+   ├── 🟡 Graphs
+   ├── 🔴 Dynamic Programming
+   └── 🔴 Competitive Programming
+
+⚛️ FRONTEND
+   ├── 🟢 HTML
+   ├── 🟢 CSS
+   ├── 🟡 JavaScript
+   └── 🟡 React
 ```
+
+</div>
 
 ---
 
@@ -165,47 +177,52 @@ Frontend
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_1&theme=tokyonight&hide_border=true">
+<a href="https://github.com/aryamantomar">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aryamantomar&repo=YOUR_PROJECT_1&theme=omni&hide_border=true" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_2&theme=tokyonight&hide_border=true">
+<a href="https://github.com/aryamantomar">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aryamantomar&repo=YOUR_PROJECT_2&theme=omni&hide_border=true" />
 </a>
 
 </div>
 
 ---
 
-# 📚 DSA & Problem Solving
+# 🧩 DSA Profiles
 
 <div align="center">
 
-| Platform | Profile |
-|:---:|:---:|
-| 🟠 LeetCode | [My Profile](https://leetcode.com/u/ToZYjfYfK3/) |
-| 🟢 GeeksforGeeks | [My Profile](https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/) |
-| 🔵 CodeChef | [My Profile](https://www.codechef.com/users/YOUR_CODECHEF_USERNAME) |
-| 🟣 HackerRank | [My Profile](https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME) |
+<a href="https://leetcode.com/u/ToZYjfYfK3/">
+<img src="https://img.shields.io/badge/🟠%20LeetCode-ToZYjfYfK3-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/🟢%20GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/🔵%20CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white">
+</a>
 
 </div>
 
 ---
 
-# 🤝 Connect With Me
+# 🤝 Let's Connect!
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/aryamantomar/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
 
 <a href="mailto:developeraryamantomar@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/📧%20Email-Contact-D14836?style=for-the-badge&logo=gmail">
 </a>
 
 <a href="https://leetcode.com/u/ToZYjfYfK3/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode">
+<img src="https://img.shields.io/badge/🧠%20LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode">
 </a>
 
 </div>
@@ -214,18 +231,14 @@ Frontend
 
 <div align="center">
 
-### 💡 "Code. Learn. Build. Repeat."
+## 🎨 Code • Learn • Build • Repeat 🚀
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=aryamantomar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10">
+<img src="https://github-profile-trophy.vercel.app/?username=aryamantomar&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1">
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-
-⭐ If you find my repositories useful, consider giving them a star!
+⭐ **If you like my work, consider starring my repositories!** ⭐
 
 </div>
