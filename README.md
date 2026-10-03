@@ -1,174 +1,70 @@
 <div align="center">
+  <h1>Hi, I'm Aryaman Tomar 👋</h1>
+  <p><strong>B.Tech Computer Science Engineering Student | Aspiring Software Engineer</strong></p>
+  <p>Ajay Kumar Garg Engineering College (AKGEC) | Uttar Pradesh, India</p>
 
-<img alt="N/A" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:C026D3,100:EC4899&height=210&section=header&text=Aryaman%20Tomar&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=B.Tech%20Computer%20Science%20Student&descAlignY=56&descSize=18&descColor=FDE68A&fontFamily=Poppins" width="100%"/>
-
-<img alt="N/A" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=C026D3&background=00000000&center=true&vCenter=true&width=640&lines=Building+with+Java%2C+Python+%26+JavaScript;Turning+coffee+into+commits;Always+debugging+something;Currently+leveling+up+on+LeetCode" />
-
-<br/>
-
-![N/A](https://komarev.com/ghpvc/?username=aryamantomar&color=C026D3&style=flat-square&label=Profile+Views)
-![N/A](https://img.shields.io/github/followers/aryamantomar?color=C026D3&style=flat-square&label=Followers&logo=github&logoColor=white)
-
+  <p align="center">
+    <a href="mailto:developeraryamantomar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://www.linkedin.com/in/aryamantomar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://leetcode.com/u/ToZYjfYfK3/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+    <a href="https://github.com/aryamantomar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  </p>
 </div>
 
-<br/>
+<br />
 
-<!-- 🎨 Cartoon-style doodle icon row (inline SVG, no external service) -->
-<p align="center">
-<svg width="360" height="70" viewBox="0 0 360 70" xmlns="http://www.w3.org/2000/svg">
-  <!-- laptop -->
-  <g transform="translate(10,10)">
-    <rect x="0" y="0" width="46" height="30" rx="4" fill="#22D3EE" stroke="#1F2937" stroke-width="2"/>
-    <rect x="4" y="4" width="38" height="22" rx="2" fill="#FFFFFF"/>
-    <path d="M20 10 L14 15 L20 20" stroke="#6D28D9" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M26 10 L32 15 L26 20" stroke="#6D28D9" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M-6 30 L52 30 L46 38 L0 38 Z" fill="#0EA5C9" stroke="#1F2937" stroke-width="2"/>
-  </g>
-  <!-- coffee cup -->
-  <g transform="translate(100,8)">
-    <path d="M22 5 C26 2, 32 3, 31 8 C30 12, 24 12, 22 9" fill="none" stroke="#1F2937" stroke-width="2"/>
-    <rect x="0" y="6" width="24" height="22" rx="3" fill="#FBBF24" stroke="#1F2937" stroke-width="2"/>
-    <rect x="0" y="28" width="24" height="4" fill="#1F2937"/>
-    <path d="M6 -2 Q8 2 6 4" stroke="#EC4899" stroke-width="2" fill="none" stroke-linecap="round"/>
-    <path d="M12 -3 Q14 1 12 3" stroke="#EC4899" stroke-width="2" fill="none" stroke-linecap="round"/>
-    <path d="M18 -2 Q20 2 18 4" stroke="#EC4899" stroke-width="2" fill="none" stroke-linecap="round"/>
-  </g>
-  <!-- rocket -->
-  <g transform="translate(175,2)">
-    <path d="M14 0 C20 6, 20 18, 14 26 C8 18, 8 6, 14 0 Z" fill="#EC4899" stroke="#1F2937" stroke-width="2"/>
-    <circle cx="14" cy="10" r="3.2" fill="#FFFFFF" stroke="#1F2937" stroke-width="1.5"/>
-    <path d="M8 18 L2 26 L9 24 Z" fill="#FBBF24" stroke="#1F2937" stroke-width="1.5"/>
-    <path d="M20 18 L26 26 L19 24 Z" fill="#FBBF24" stroke="#1F2937" stroke-width="1.5"/>
-    <path d="M11 25 L14 34 L17 25 Z" fill="#22D3EE" stroke="#1F2937" stroke-width="1.5"/>
-  </g>
-  <!-- lightbulb -->
-  <g transform="translate(240,4)">
-    <circle cx="14" cy="14" r="12" fill="#FDE68A" stroke="#1F2937" stroke-width="2"/>
-    <rect x="9" y="24" width="10" height="6" rx="1.5" fill="#94A3B8" stroke="#1F2937" stroke-width="1.5"/>
-    <path d="M10 14 L14 8 L18 14 L14 20 Z" fill="#6D28D9" opacity="0.6"/>
-  </g>
-  <!-- star -->
-  <g transform="translate(300,6)">
-    <polygon points="16,0 20,11 32,11 22,18 26,30 16,22 6,30 10,18 0,11 12,11"
-             fill="#22D3EE" stroke="#1F2937" stroke-width="1.5"/>
-  </g>
-</svg>
-</p>
+## 👨‍💻 About Me
 
----
+I am a 5th-semester Computer Science Engineering student passionate about software engineering, back-end systems, and problem-solving. My core focus is developing robust applications using Java and Spring Boot, alongside building full-stack applications with React. I actively hone my analytical skills through Data Structures and Algorithms.
 
-### About
+- 🎯 **Goal:** Transition into a Software Engineer role focusing on scalable backend or full-stack development.
+- 💡 **Interests:** Java Backend Development, REST APIs, Full-Stack Development, Data Structures & Algorithms.
 
-I'm a B.Tech Computer Science student who enjoys building things end-to-end — from backend logic to the interface people actually touch. Most days involve some mix of Java, Python, JavaScript, and whatever new tool I've decided to break my workflow with this week. Currently spending a lot of time on LeetCode and sharpening the fundamentals.
+<br />
 
----
+## 🛠️ Tech Stack & Tools
 
-### Tech Stack
+**Languages**  
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 
-<table>
-<tr>
-<td valign="top" width="50%">
+**Backend Frameworks**  
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
 
-**Languages**
+**Frontend Frameworks & Libraries**  
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
 
-![N/A](https://skillicons.dev/icons?i=java,python,js&theme=light)
+**Tools & Infrastructure**  
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
 
-**Frontend**
+<br />
 
-![N/A](https://skillicons.dev/icons?i=html,css,js&theme=light)
+## 🧠 DSA & Problem Solving
 
-</td>
-<td valign="top" width="50%">
+I regularly practice Data Structures and Algorithms in Java to improve my problem-solving capabilities. You can view my progress on [LeetCode](https://leetcode.com/u/ToZYjfYfK3/).
 
-**Backend & Database**
+**Key topics I actively work on:**
+- Data Structures: Arrays, Strings, Linked Lists, Stacks, Queues, Hash Tables, Trees, BSTs, Heaps, and Graphs.
+- Algorithms: Binary Search, Sorting, Searching, Recursion, Backtracking, Greedy Algorithms, and Dynamic Programming.
 
-![N/A](https://skillicons.dev/icons?i=java,python,mysql&theme=light)
+<br />
 
-**Dev Tools**
+## 🌱 Currently Learning
 
-![N/A](https://skillicons.dev/icons?i=git,github,linux,idea,webstorm,datagrip&theme=light)
-
-</td>
-</tr>
-</table>
+- Advanced Spring Boot concepts and microservices architecture.
+- Deepening knowledge in dynamic programming and graph algorithms.
+- Exploring modern React practices (React Router, Axios integrations).
 
 ---
-
-### Featured Projects
-
-<!-- No repos were confirmed, so these are clearly marked placeholder
-     templates. Duplicate a <td> block per project, fill in the real
-     name/description/tech/links, then delete any panels you don't need. -->
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🟣 [ PROJECT NAME HERE ]**
-
-_One-line description of what it does goes here._
-
-`Tech: e.g. Java, MySQL`
-
-<!-- Replace # with real links -->
-[Code](#) &nbsp;•&nbsp; [Live Demo](#)
-
-</td>
-<td width="50%" valign="top">
-
-**🩷 [ PROJECT NAME HERE ]**
-
-_One-line description of what it does goes here._
-
-`Tech: e.g. Python, Flask`
-
-<!-- Replace # with real links -->
-[Code](#) &nbsp;•&nbsp; [Live Demo](#)
-
-</td>
-</tr>
-</table>
-
----
-
-### GitHub Stats
-
 <div align="center">
-
-**Most Used Languages**
-
-![N/A](https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=light&perline=6)
-
-<br/>
-
-<img alt="N/A" src="https://streak-stats.demolab.com/?user=aryamantomar&hide_border=true&background=1E1B4B&stroke=C026D3&ring=22D3EE&fire=FBBF24&currStreakLabel=FBBF24&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A5B4FC" width="70%"/>
-
+  <i>Feel free to reach out to me for collaboration or just a tech chat!</i>
 </div>
-
----
-
-### LeetCode
-
-<div align="center">
-
-<a href="https://leetcode.com/u/ToZYjfYfK3/">
-  <img alt="N/A" src="https://leetcard.jacoblin.cool/ToZYjfYfK3?theme=dark&ext=heatmap" width="90%"/>
-</a>
-
-</div>
-
----
-
-### Connect
-
-<div align="center">
-
-[![N/A](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryamantomar)
-[![N/A](https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developeraryamantomar@gmail.com)
-[![N/A](https://img.shields.io/badge/LeetCode-22D3EE?style=for-the-badge&logo=leetcode&logoColor=1F2937)](https://leetcode.com/u/ToZYjfYfK3/)
-
-</div>
-
----
-
-<img alt="N/A" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:C026D3,100:6D28D9&height=120&section=footer&fontFamily=Poppins" width="100%"/>
