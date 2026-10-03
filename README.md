@@ -78,7 +78,7 @@
 
 <a href="https://leetcode.com/u/ToZYjfYfK3/">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats">
+<img src="https://leetcard.jacoblin.cool/ToZYjfYfK3?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats">
 
 </a>
 
@@ -100,9 +100,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180">
+<img src="https://github-readme-stats.vercel.app/api?username=aryamantomar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryamantomar&layout=compact&theme=tokyonight&hide_border=true" height="180">
 
 </div>
 
