@@ -254,7 +254,7 @@
 ```
 
 <a href="https://github.com/aryamantomar">
-<img src="https://img.shields.io/badge/GitHub-ARYAMANTOMAR-00F7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117">
+<img src="https://img.shields.io/badge/GitHub-ARYAMANTOMAR-00F7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=green">
 </a>
 
 <a href="https://www.linkedin.com/in/aryamantomar/">
